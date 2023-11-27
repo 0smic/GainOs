@@ -1,5 +1,4 @@
-# GainOs (Future World)
-
+# Gain Os
 
 Gain os is open source operating system. It's more like a game. When you boot the os you have two options first one is run Offline second is run Online.
 
@@ -10,9 +9,33 @@ Once you registered in the website. We will assign you a random username and pas
 
 ## About Game
 
-Once you click Run Online a login section will pop up. You need to login with the username and password we assigned for you. Once you logged in. That mean you are connected to the server. You can use all your skill the gain access to the server. This server is not password protected. We don't want you to waste month trying to Bruteforce it. 
+Once you click Run Online a login section will pop up. You need to login with the username and password we assigned for you. Once you logged in. That mean you are connected to the server. You can use all your skill the gain access to the server. This server is not password protected. We don't want you to waste month trying to Brute-force it. 
 Once we make the server online it will be vulnerable. An intermediate hacker or developer can easily gain access the server. And we call him/her King. The King want to maintain the access. If another hacker or Developer gain access to the server and remove the access of the current King. Then He/Her will be the King.
 To maintain as King you need to use all your skills to secure the server. You can modify the necessary files and so on.
 
-This is a Future Project Idea
+
+## Chat Server
+
+Once you chose Online mode. You also have a chat server in it. You can work as a team to secure the Server or you can gather knowledge and so on. There is no limitations. You can be anonymous and also a person.
+##### Things get you banned
+
+- Using cryptography or password to secure the server for maintaining as King.
+- Deleting system files (once we recognize it, we will reboot the server to original)
+
+### Important
+
+- We keep log details about the process you done to the Game Server.
+- Your chat log or other log details other than connected to the game will not be saved.
+- The chat server is not filtered so use it on your own risk.
+
+People who think to secure the server without any encryption or password is impossible does not know anything about the true value of programming..
+
+This is a non-profitable organizations. We are contributing this to the community To find the King.
+
+GainOs is Future Project.
+
 Author = Gokul B
+
+
+
+
