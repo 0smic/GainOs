@@ -1,6 +1,6 @@
-# Gain Os
+# GainOs
 
-Gain os is open source operating system. It's more like a game. When you boot the os you have two options first one is run Offline second is run Online.
+Gainos is open source operating system. It's more like a game. When you boot the os you have two options first one is run Offline second is run Online.
 
 Run Offline is more like a advanced Linux operating system were you can do the normal things.
 
