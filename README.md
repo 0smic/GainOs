@@ -4,7 +4,7 @@ Gainos is open source operating system. It's more like a game. When you boot the
 
 Run Offline is more like a advanced Linux operating system were you can do the normal things.
 
-Run online basically mean it will connect to the Gain os server. You can be anonymous or show your identity. If you need to participate in the game you must register in the gainos.org website.
+Run online basically mean it will connect to the Gain os server. You can be anonymous or show your identity. If you need to participate in the game you must register in the gainos.org website (which is not online yet).
 Once you registered in the website. We will assign you a random username and password. This username and password is used to login to the game server. 
 
 ## About Game
