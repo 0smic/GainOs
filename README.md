@@ -17,7 +17,8 @@ To maintain as King you need to use all your skills to secure the server. You ca
 
 ## Chat Server
 
-Once you chose Online mode. You also have a chat server in it. You can work as a team to secure the Server or you can gather knowledge and so on. There is no limitations. You can be anonymous and also a person.
+Once you choose Online mode. You also have a chat server in it. You can work as a team to secure the Server or you can gather knowledge and so on. There is no limitations. You can be anonymous or you can reveal your identity.
+
 ##### Things get you banned
 
 - Using cryptography or password to secure the server for maintaining as King.
@@ -25,11 +26,11 @@ Once you chose Online mode. You also have a chat server in it. You can work as a
 
 ### Important
 
-- We keep log details about the process you done to the Game Server.
+- We keep log details about the process you done to the Game Server to maintain as King.
 - Your chat log or other log details other than connected to the game will not be saved.
-- The chat server is not filtered so use it on your own risk.
+- chat server is unfiltered so use it on your own risk.
 
-People who think to secure the server without any encryption or password is impossible does not know anything about the true value of programming..
+People who think securing the server without any encryption or password is impossible They just don't know anything about the true value of programming..
 
 This is a non-profitable organizations. We are contributing this to the community To find the King.
 
